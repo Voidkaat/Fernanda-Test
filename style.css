@@ -1,4 +1,9 @@
-.titulo {color: rgb(0, 0, 0)71, 71, 179)}
+.titulo {
+    color: rgb(236, 13, 13)71, 71, 179);
+    text-align :center;
+}
+
+
 .paragrafo {
     background-color: #ececec;
     color: white;
