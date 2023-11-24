@@ -5,8 +5,9 @@
 
 
 .paragrafo {
+    text-align :center;
     background-color: #FCC7BC;
-    color: #FFEFEB
+    color: #ffffff
     padding: 24px 0;
     margin: 0 16px;
     font-size: 16px;
